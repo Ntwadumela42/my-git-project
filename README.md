@@ -8,4 +8,5 @@
 
 >Messing around with Vim so I don't forget how to use it.
 >X2, cntrl + w to change windows in vim.
-
+>Adding some more lines from vim.
+>wq is write quit.
